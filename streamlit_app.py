@@ -71,6 +71,3 @@ if streamlit.button('Get fruit load list'):
     my_data_rows = get_fruit_load_list()
     my_cnx.close()
     streamlit.dataframe(my_data_rows)
-has context menu
-Compose
-Status of Sainagakrishna, Koppolu: Working from clients office with no access to CG network. Please expect delay in response
